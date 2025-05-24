@@ -1,0 +1,1 @@
+## automatically scan ur plots and write then to a txt file :)
